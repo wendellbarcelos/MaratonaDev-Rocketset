@@ -1,2 +1,2 @@
 # MaratonaDev-Rocketset
-Criação de uma aplicação web na qual seria implementada o front-end  e back-end, com a criação do zero usando HTML, CSS, Javascript e Nodejs. 
+Criação de uma pag  web utilizando o Visual Studio Code, aplicação em HTML, CSS e Javascrip. Criação do server  no node.js usando formularios e guardando as informações no Postgres mantendo atualização na pagina buscando direto do banco de dados.
